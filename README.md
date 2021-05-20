@@ -1,4 +1,4 @@
-# Rustup components availability tool
+# Dustup components availability tool
 
 A library and some binaries to monitor rustup components availability history
 on different platforms.
